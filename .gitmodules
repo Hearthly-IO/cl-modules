@@ -1,0 +1,3 @@
+[submodule "lisp-systems/1am"]
+	path = lisp-systems/1am
+	url = https://github.com/lmj/1am.git
